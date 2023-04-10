@@ -33,6 +33,9 @@ section{
 .w-50{
     width: 50%;
 }
+.w-25{
+    width: 25%;
+}
 .nav{
     height: 60vh;
 
@@ -58,7 +61,7 @@ section{
 }
 
 .container .block{
-    height: 500px;
+    height: 550px;
     padding: 0 30px;
     margin: 0;
 }
@@ -68,4 +71,13 @@ section{
 }
 .container .block a:hover h5{
     font-weight: bold;
+}
+
+
+.modal{
+    height: 500px;
+}
+
+.circle{
+    border-radius: 50%;
 }
