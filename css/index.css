@@ -60,6 +60,16 @@ body::-webkit-scrollbar {
     align-items: center;
 }
 
+section.news{
+    z-index: 10;
+}
+section.news div.news{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
 .objectif-size{
     height: 50%;
 }
